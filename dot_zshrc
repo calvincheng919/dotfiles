@@ -101,17 +101,19 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 alias zshconfig="code ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias 401="~/devstation/401"
-alias cf="~/devstation/401/code-401-javascript-guide"
-alias bjs="~/devstation/401/bend-javascript-401d2"
-alias grading="~/devstation/401/grading"
-alias sandbox="~/devstation/401/sandbox"
-alias labs="~/devstation/401/labs"
-alias demos="~/devstation/401/demos"
+# alias 401="~/devstation/401"
+# alias cf="~/devstation/401/code-401-javascript-guide"
+# alias bjs="~/devstation/401/bend-javascript-401d2"
+# alias grading="~/devstation/401/grading"
+# alias sandbox="~/devstation/401/sandbox"
+# alias labs="~/devstation/401/labs"
+# alias demos="~/devstation/401/demos"
 alias devstation="~/devstation"
 alias lemon="~/documents/projects/lemonbrew"
-alias lemon_sandbox="~/documents/projects/lemonbrew/sandbox"
-alias aff="~/documents/javascript/affiliate"
+# alias lemon_sandbox="~/documents/projects/lemonbrew/sandbox"
+# alias aff="~/documents/javascript/affiliate"
+alias learn="~/documents/projects/learn"
+alias looker="~/documents/projects/looker"
 
 PATH=$PATH:~/bin/ && export path
 
